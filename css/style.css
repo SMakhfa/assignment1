@@ -1,0 +1,19 @@
+h1 {
+  color: #949494;
+}
+
+h2 {
+  color: #ff5403;
+}
+.btn {
+  background-color: #0077b6;
+  color: white;
+  width: 100px;
+  height: 25px;
+  border: none;
+  border-radius: 10px;
+}
+
+.desc {
+  font-size: 20px;
+}
